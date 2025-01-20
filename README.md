@@ -113,3 +113,6 @@ Complete(0): Open NB=I EF=I (Open to internet) mapped=127.0.0.1:61072 rtt=0
   IN THE SOFTWARE.
 ```
 
+#CITY CAMERA SECRET ACCESS
+https://github.com/OlafenwaMoses/ImageAI/blob/master/data-images
+#matrioska-os #putin #antoniomarzio #didakta #libreria-didakta #didakta.ostuni #amhacker 
